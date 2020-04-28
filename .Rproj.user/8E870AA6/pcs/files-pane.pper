@@ -1,0 +1,9 @@
+{
+    "path" : "~/testing/helloword",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
